@@ -15,7 +15,7 @@
             </div>
           </div>
           <div>
-            <h1 class="text-gray-700 font-extrabold text-center text-3xl">Jack Dempsy</h1>
+            <h1 class="text-gray-700 font-extrabold text-center text-3xl">Selim Ferroukhi</h1>
           </div>
           <div>
             <h1 class="text-gray-500 font-bold text-center text-xl">Software Developer</h1>

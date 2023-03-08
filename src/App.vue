@@ -8,8 +8,7 @@ import Three from './components/Three.vue'
   <div>
     <Navbar />
     <Three />
-  </div>
-  
+  </div> 
 </template>
 
 <script>
@@ -18,7 +17,6 @@ export default {
     components: {
       Navbar,
       Three,
-
     }
     
 }
